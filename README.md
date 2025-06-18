@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <a href="https://github.com/jeffjiang13/3d-portfolio">
+    <a href="https://github.com/mohdfarhan7/My-Portfolio">
         <img src="src/assets/logo3.png" alt="3D Portfolio Logo" width="235" height="150">
     </a>
 </div>
@@ -48,7 +48,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/jeffjiang13/3d-portfolio.git
+git clone https://github.com/mohdfarhan7/My-Portfolio.git
 ```
 2. Install NPM packages
 ```sh
